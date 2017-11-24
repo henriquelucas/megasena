@@ -1,6 +1,6 @@
 table.rms_widget{background-position:0%;background:transparent none; border-collapse:collapse; border:0; clear:none; float:none;font-family:arial,sans-serif; font-style:normal; font-variant:normal; height:auto; letter-spacing:normal; line-height:normal; margin:0; padding:0; text-indent:0; text-transform:none; top:auto; vertical-align:middle; white-space:normal;	width:auto;	word-spacing:normal;}
 table.rms_widget,table.rms_widget,table.rms_widget a:active,table.rms_widget{font-size:10px;color:#0000cc;}
-.rms_iframe{background: none repeat scroll 0% 0% white; padding: 0px; border: 1px solid #000000;text-align:center;font-size:10px;}
+.rms_iframe{background: none repeat scroll 0% 0% white; padding: 0px; border: 3px solid #e6e6e6;text-align:center;font-size:10px;}
 .rms_footer{background-color:#42A61A;text-align:center;font-family:Arial;color:#000000;font-size:9pt;line-height:18px;}
 .rms_footer a{color:#ffff00;font-weight:bold;font-size:10pt;}
 .rms_btlinks a {font-family:Arial;color:#FFFFFF;font-size:7pt;}
